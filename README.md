@@ -1,38 +1,27 @@
 <p align="center">
-  <img src="./assets/kouzia-banner.svg" width="100%" alt="Kouzia — Custom websites and software that work for you." />
+  <a href="https://kouzia.com"><img src="./assets/kouzia-banner.svg" width="100%" alt="Kouzia — Custom websites and software that work for you." /></a>
 </p>
 
 <p align="center">
-  <a href="https://kouzia.com"><img src="https://img.shields.io/badge/kouzia.com-121a2e?style=for-the-badge&logo=googlechrome&logoColor=fe9a00" alt="kouzia.com" /></a>
-  <a href="mailto:contact@kouzia.com"><img src="https://img.shields.io/badge/contact%40kouzia.com-121a2e?style=for-the-badge&logo=gmail&logoColor=fe9a00" alt="contact@kouzia.com" /></a></p>
-
-Hi, I'm Alexandre. From Huelgoat, in the heart of Brittany's Monts d'Arrée, I build **websites** and **custom software** for local non-profits, public bodies and businesses.
-
-What drives me: simple, fast and accessible tools, built without relying on Big Tech whenever possible.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,astro,tailwind,nodejs,php,go,postgres,electron,tauri,linux&perline=11" alt="TypeScript, React, Astro, Tailwind, Node.js, PHP, Go, PostgreSQL, Electron, Tauri, Linux" />
+  <img src="./assets/about.svg" width="100%" alt="Hi, I'm Alexandre. From Huelgoat, in Brittany, I build websites and custom software for local non-profits, public bodies and businesses." />
 </p>
 
-### <img src="./assets/icons/wrench.svg" width="20" height="20" alt="" /> Currently building
-
-- **[Vigie Bot](https://vigiebot.kouzia.com)** — a free Discord bot for streamers: Twitch & YouTube live alerts, clips, schedule, moderation and temporary voice channels
-- **[CapsuleOS](https://os.lacapsule.org)** — try out desktop environments in your browser, learn them by playing and find the one that suits you ([source](https://github.com/k0uzia/CapsuleOS))
-- **[Tracebay](https://tracebay.kouzia.com)** — IT hardware traceability software, used daily by La Capsule in Morlaix
-- **[GoBox](https://demo-gobox.kouzia.com)** — a Go diagnostic tool for their computer refurbishing workshop
-
-### <img src="./assets/icons/globe.svg" width="20" height="20" alt="" /> On the web
-
-[ESS29](https://ess29.org) · [La Capsule](https://lacapsule.org) · [Morlaix Communauté](https://moco.lacapsule.org) · [ULAMIR CPIE](https://ulamir.lacapsule.org) · [SSA Pays de Morlaix](https://ssapaysdemorlaix.fr)
-
-### <img src="./assets/icons/flask.svg" width="20" height="20" alt="" /> Side projects
-
-- **[KouziaConverter](https://github.com/k0uzia/KouziaConverter)** — convert videos, images and icons locally, without uploading anything
-- **[Safenet](https://github.com/k0uzia/Safenet)** — a fake "hacker" terminal for cybersecurity awareness escape games aimed at young people
-
----
+<p align="center">
+  <a href="https://vigiebot.kouzia.com"><img src="./assets/card-vigie-bot.svg" width="49%" alt="Vigie Bot — a free Discord bot for streamers" /></a>
+  <a href="https://os.lacapsule.org"><img src="./assets/card-capsuleos.svg" width="49%" alt="CapsuleOS — try out desktop environments in your browser" /></a>
+  <a href="https://tracebay.kouzia.com"><img src="./assets/card-tracebay.svg" width="49%" alt="Tracebay — IT hardware traceability software" /></a>
+  <a href="https://demo-gobox.kouzia.com"><img src="./assets/card-gobox.svg" width="49%" alt="GoBox — hardware diagnostic tool" /></a>
+</p>
 
 <p align="center">
-  <img src="./assets/icons/mail.svg" width="18" height="18" alt="" />
-  <b>Got a project in mind?</b> Reach me at <a href="mailto:contact@kouzia.com">contact@kouzia.com</a> or visit <a href="https://kouzia.com">kouzia.com</a>
+  <a href="https://kouzia.com/realisations/"><img src="./assets/sites.svg" width="100%" alt="Websites I've built: ESS29, La Capsule, Morlaix Communauté, ULAMIR CPIE, SSA Pays de Morlaix" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/k0uzia/KouziaConverter"><img src="./assets/card-kouziaconverter.svg" width="49%" alt="KouziaConverter — convert media locally" /></a>
+  <a href="https://github.com/k0uzia/Safenet"><img src="./assets/card-safenet.svg" width="49%" alt="Safenet — cybersecurity awareness escape game" /></a>
+</p>
+
+<p align="center">
+  <a href="mailto:contact@kouzia.com"><img src="./assets/contact.svg" width="100%" alt="Got a project in mind? contact@kouzia.com" /></a>
 </p>
