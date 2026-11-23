@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Kouzia — Custom websites and software that work for you." />
+  <img src="./assets/kouzia-banner.svg" width="100%" alt="Kouzia — Custom websites and software that work for you." />
 </p>
 
 <p align="center">
@@ -16,16 +16,17 @@ What drives me: simple, fast and accessible tools, built without relying on Big 
 
 ### <img src="./assets/icons/wrench.svg" width="20" height="20" alt="" /> Currently building
 
+- **[Vigie Bot](https://vigiebot.kouzia.com)** — a free Discord bot for streamers: Twitch & YouTube live alerts, clips, schedule, moderation and temporary voice channels
+- **[CapsuleOS](https://os.lacapsule.org)** — try out desktop environments in your browser, learn them by playing and find the one that suits you ([source](https://github.com/k0uzia/CapsuleOS))
 - **[Tracebay](https://tracebay.kouzia.com)** — IT hardware traceability software, used daily by La Capsule in Morlaix
 - **[GoBox](https://demo-gobox.kouzia.com)** — a Go diagnostic tool for their computer refurbishing workshop
 
 ### <img src="./assets/icons/globe.svg" width="20" height="20" alt="" /> On the web
 
-[ESS29](https://ess29.org) · [La Capsule](https://lacapsule.org) · [CapsuleOS](https://os.lacapsule.org) · [Morlaix Communauté](https://moco.lacapsule.org) · [ULAMIR CPIE](https://ulamir.lacapsule.org) · [SSA Pays de Morlaix](https://ssapaysdemorlaix.fr)
+[ESS29](https://ess29.org) · [La Capsule](https://lacapsule.org) · [Morlaix Communauté](https://moco.lacapsule.org) · [ULAMIR CPIE](https://ulamir.lacapsule.org) · [SSA Pays de Morlaix](https://ssapaysdemorlaix.fr)
 
 ### <img src="./assets/icons/flask.svg" width="20" height="20" alt="" /> Side projects
 
-- **[PterodactylCustom](https://github.com/k0uzia/PterodactylCustom)** — an interactive CLI to set up Pterodactyl, Wings, Cloudflare Tunnel and playit in minutes
 - **[KouziaConverter](https://github.com/k0uzia/KouziaConverter)** — convert videos, images and icons locally, without uploading anything
 - **[Safenet](https://github.com/k0uzia/Safenet)** — a fake "hacker" terminal for cybersecurity awareness escape games aimed at young people
 
