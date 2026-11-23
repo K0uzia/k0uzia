@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Kouzia — Sites web et logiciels sur mesure">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Kouzia — Custom websites and software">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1120"/>
@@ -39,6 +39,6 @@
 
   <rect x="80" y="166" width="90" height="4" rx="2" fill="url(#accent)"/>
 
-  <text x="80" y="214" class="sub">Des sites web et des logiciels sur mesure, qui travaillent pour vous.</text>
-  <text x="80" y="254" class="meta">DÉVELOPPEUR WEB INDÉPENDANT · HUELGOAT · FINISTÈRE (29)</text>
+  <text x="80" y="214" class="sub">Custom websites and software that work for you.</text>
+  <text x="80" y="254" class="meta">INDEPENDENT WEB DEVELOPER · HUELGOAT · BRITTANY, FRANCE</text>
 </svg>
