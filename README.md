@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://kouzia.com"><img src="https://img.shields.io/badge/kouzia.com-0b1120?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" alt="kouzia.com" /></a>
-  <a href="mailto:contact@kouzia.com"><img src="https://img.shields.io/badge/contact%40kouzia.com-0b1120?style=for-the-badge&logo=gmail&logoColor=7c3aed" alt="contact@kouzia.com" /></a></p>
+  <a href="https://kouzia.com"><img src="https://img.shields.io/badge/kouzia.com-121a2e?style=for-the-badge&logo=googlechrome&logoColor=fe9a00" alt="kouzia.com" /></a>
+  <a href="mailto:contact@kouzia.com"><img src="https://img.shields.io/badge/contact%40kouzia.com-121a2e?style=for-the-badge&logo=gmail&logoColor=fe9a00" alt="contact@kouzia.com" /></a></p>
 
 Hi, I'm Alexandre. From Huelgoat, in the heart of Brittany's Monts d'Arrée, I build **websites** and **custom software** for local non-profits, public bodies and businesses.
 
